@@ -1,5 +1,5 @@
 For getting started just clone the repository and pip install requiremnts.txt  
-Then run flas_api.py inside code folder to get started with the flask app otherwise run gen_image.py to generate images from a sentence.
+Then execute the runnable.ipybn file  to get started with the front end to view the output app or run gen_image.py to generate images from a sentence.
 
 # AttnGAN (Python 3, Pytorch 1.0)
 
