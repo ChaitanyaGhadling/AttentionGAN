@@ -6,7 +6,8 @@ Then execute the runnable.ipybn file  to get started with the front end to view 
 Pytorch implementation for reproducing AttnGAN results in the paper [AttnGAN: Fine-Grained Text to Image Generation
 with Attentional Generative Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf) by Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He. 
 
-<img src="framework.png" width="900px" height="350px"/>
+<img src=![framework](https://github.com/ChaitanyaGhadling/AttentionGAN/assets/55136558/bb34d72d-a0a9-4dac-87de-b9242dc61f42)
+ width="900px" height="350px"/>
 
 
 ### Dependencies
